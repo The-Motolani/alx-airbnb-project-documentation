@@ -1,4 +1,4 @@
-#  Design the Use Case Diagram of the Features and Functionalities
+# Design the Use Case Diagram of the Features and Functionalities
 
 ## 🎯 Key Actors
 
